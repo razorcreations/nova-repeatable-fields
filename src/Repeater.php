@@ -2,6 +2,7 @@
 
 namespace Fourstacks\NovaRepeatableFields;
 
+use Illuminate\Support\Str;
 use Laravel\Nova\Fields\Field;
 use Laravel\Nova\Http\Requests\NovaRequest;
 
